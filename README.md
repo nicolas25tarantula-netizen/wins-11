@@ -1,6 +1,6 @@
 # Welcome to Wins-11 Simulator Web App 🪟
 
-![Wins-11 Simulator Banner](preview/1.png)
+
 
 **Wins-11 Simulator** is a captivating web application that brings the nostalgic experience of the classic Windows 11 operating system right to your browser. With the power of modern web technologies like React.js and Redux, this simulator offers a seamless and interactive journey down memory lane. Whether you're feeling nostalgic or curious about the past, Wins-11 Simulator is here to take you on a visually appealing and functionally rich adventure.
 
